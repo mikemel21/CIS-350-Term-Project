@@ -1,6 +1,6 @@
-Team name:
+Team name: Red Spark
 
-Team members:
+Team members: Joshua Ciesniewski, Justin Burch, Alex Espinoza, Mike Melei, Lily Baer
 
 # Introduction
 
