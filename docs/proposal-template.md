@@ -7,11 +7,15 @@ Team members: Joshua Ciesniewski, Justin Burch, Alex Espinoza, Mike Melei, Lily 
 (In 2-4 paragraphs, describe your project concept)
 
 # Anticipated Technologies
-
+* Laptop
+* xcode or another software that can be coded with swift.
+* 
 (What technologies are needed to build this project)
 
 # Method/Approach
 
+* We are planning on using xcode with swift to develop a Car diognostics app.
+* 
 (What is your estimated "plan of attack" for developing this project)
 
 # Estimated Timeline
@@ -20,4 +24,7 @@ Team members: Joshua Ciesniewski, Justin Burch, Alex Espinoza, Mike Melei, Lily 
 
 # Anticipated Problems
 
+* Learning Swift
+* Creating a plan of attack for the proojecet.
+* Finding a time that works for all of us to meet.
 (Describe any problems you foresee that you will need to overcome)
