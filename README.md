@@ -13,7 +13,7 @@
 * [Mike Melei](https://github.com/mikemel21/CIS-350-HW2-Melei)
 * [Alex Espinoza](https://github.com/alexespinoza007/CIS350-HW2-Espinoza)
 * [Lily Baer](https://github.com/lilybaer/CIS350-HW2-Baer)
-* Member 5
+* [Justin Burch](https://github.com/Jman25/CIS350-HW2-Burch)
 
 ## Prerequisites
 
