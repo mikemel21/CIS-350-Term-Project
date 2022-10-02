@@ -1,10 +1,10 @@
 ### Team name: RedSpark
 
-# Members present: Joshua, Justin, Mike
+ Members present: Joshua, Justin, Mike
 
-# Date: 02 October 2022
+ Date: 02 October 2022
 
-# Time: 6:00 p.m.
+ Time: 6:00 p.m.
 
 ## Discussion points:
 * Will we give the user an option to select the type of car they have and base their solutions off of that?
