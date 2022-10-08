@@ -1,6 +1,8 @@
 # Overview
 <Describe the purpose of this document in 1 paragraph of less … hint: it is
 your SRS>
+This document is essentially an organizer for the requirements for our application. It lists the various aspects/screens of our app and gives
+guidelines as to what each must accomplish in order to be identified as "completed". As our project development and processes continue, the requirements, functionalities, and aspects/screens are likely to expand and change.
 
 
 # Functional Requirements
