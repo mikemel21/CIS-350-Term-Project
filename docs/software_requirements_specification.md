@@ -12,8 +12,9 @@ guidelines as to what each must accomplish in order to be identified as "complet
  3. <And so on>
  
 2. Opening Screen
-    * The opening screen shall contain a place to log-in or sign-up
+    * The opening screen shall contain a place to log-in or sign-up.
     * The opening screen shall display an option for a user to reset their password in the event they forget it.p
+    * A remember username box shall be displayed and working for quicker login.
 
 3. Diognosis Screen
      * The options for “smell, sight, feel, sound and if it won’t start” shall be presented upon opening the app/after logging in.
