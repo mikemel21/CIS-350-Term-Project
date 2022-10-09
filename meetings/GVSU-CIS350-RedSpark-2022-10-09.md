@@ -1,27 +1,26 @@
 # CIS350 Meeting Instructions
 
-Hold a team meeting at least once a week in some format.  Copy the following template below into a new document, naming it GVSU-CIS350-TEAMNAME-YYYY-MM-DD (replacing TEAMNAME with your team's name and the appropriate date fields).  Commit it to this folder, ensuring it is up by each Sunday by 11:59pm.  There should be a unique document for each meeting held.
-
 ## Meeting minutes template
 
 Team name: Red Spark 
 
-Members present: Justin, Lo
+Members present: Justin, Lily, Josh, Alex, Mike
 
-Date: 
+Date: 10/09/2022
 
-Time: 
+Time: 4:00 pm
 
 Discussion points: 
 
 * Discussed possible requirements
-* 
-* 
+* Discussed Use Case Diagram(s) 
+* Chose UML diagram together
+* Planned how to start the project
 
 Goals for next week (include responsibilities)
 
 * Finish Functional/Nonfunctional requirements (team)
-* 
+* Create the blank main page of the application with programmed buttons, a scroll wheel, etc.  
 * 
 
 
