@@ -49,6 +49,7 @@ guidelines as to what each must accomplish in order to be identified as "complet
 1. Interface
     * The interface shall be pleasing to the eye.
     * The interface shall have a dark mode and light mode options.
+    * Up to 20 solutions shall be displayed on the solutions page.
     
 2. Usability
     * The app shall be able to be used by more than 5 people at a time.
@@ -58,5 +59,7 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * Buttons shall be big enough for people who are hard of sight to see.
     * Text shall be big enough to be readable but not so small its hard to 
     read.
+    * Software shall take less than 5 seconds to open and load.
+    * Software shall work on every iPhone that supports iOS 14 and up.
 
   
