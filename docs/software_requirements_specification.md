@@ -42,3 +42,9 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * The app shall be able to be used by more than 5 people at a time.
     * The app shall always be available for the user to use at any time.
     * The app shall be accommodating to those with disabilities.
+  
+3. Login
+    * There shall be a sign-up button for if the user has never signed up before. 
+    * Once the user logs in with email or phone# they shall create a username that can be displayed to other people. They can also use that username to log in. 
+    * If the user enters the password or username wrong, there shall be a prompt displayed saying    wrong password or username.   
+    * There shall be a forgotten username or password button at the bottom for the user to reset the username or password.
