@@ -26,6 +26,7 @@ guidelines as to what each must accomplish in order to be identified as "complet
  5. User Feedback Screen
     * The public comments shall be presented to you at the end of diagnoses to give you a solution.
     * Users shall be able to upvote and downvote public comments
+    * Software shall allow users to comment to solutions and discuss
  
  6. Login
     * There shall be a sign-up button for if the user has never signed up before. 
