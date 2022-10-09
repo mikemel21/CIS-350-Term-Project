@@ -55,14 +55,15 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * Up to 20 solutions shall be displayed on the solutions page.
     
 2. Usability
-    * The app shall be able to be used by more than 5 people at a time.
     * The app shall always be available for the user to use at any time.
     * The app shall be accommodating to those with disabilities.
     * Any animations shall be short enough or look good enough to not make the user annoyed they are watching it.
     * Buttons shall be big enough for people who are hard of sight to see.
     * Text shall be big enough to be readable but not so small its hard to 
     read.
+
+ 3. Performance
+    * The app shall be able to be used by more than 5 people at a time.
     * Software shall take less than 5 seconds to open and load.
     * Software shall work on every iPhone that supports iOS 14 and up.
-
   
