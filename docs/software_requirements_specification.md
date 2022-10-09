@@ -37,6 +37,7 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * There shall be a settings button in the menu or after you log in.
     * Buttons shall be a cog wheel icon.
     * There shall be a dark mode and light mode enabler in settings.
+    * Admin users shall be able to verify users to be "mechanics"
 
  
  
