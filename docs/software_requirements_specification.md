@@ -67,3 +67,11 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * Software shall take less than 5 seconds to open and load.
     * Software shall work on every iPhone that supports iOS 14 and up.
   
+ 4. Reliability
+    * Information found should be accurate for user.
+    * Solutions will be monitered to insure reliability.
+    * App should not crash due to extended use or system bugs.
+ 
+ 5. Scalability
+    * App can handle increased usage and more data as time progresses.
+    * Data can be stored and accessed in a way that optimizes storage and avoids delays.
