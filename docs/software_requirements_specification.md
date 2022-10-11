@@ -30,14 +30,15 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * Software shall allow users to comment to solutions and discuss
  
  6. Login
-    * There shall be a sign-up button for if the user has never signed up before. 
-    * Once the user logs in with email or phone# they shall create a username that can be displayed to other people. They can also use that username to log in. 
-    * If the user enters the password or username wrong, there shall be a prompt displayed saying    wrong password or username.   
+    * There shall be a sign-up button if the user has never signed up. 
+    * The user shall create a username that can be displayed to other people.
+    * The user shall be able to use username or email plus password to sign in.
+    * If the user enters the password or username wrong, there shall be a prompt displayed saying wrong password or username.   
     * There shall be a forgotten username or password button at the bottom for the user to reset the username or password.
+
  
 7. Settings
     * There shall be a settings button in the menu or after you log in.
-    * Buttons shall be a cog wheel icon.
     * There shall be a dark mode and light mode enabler in settings.
     * Admin users shall be able to verify users to be "mechanics"
 
@@ -57,10 +58,10 @@ guidelines as to what each must accomplish in order to be identified as "complet
 2. Usability
     * The app shall always be available for the user to use at any time.
     * The app shall be accommodating to those with disabilities.
-    * Any animations shall be short enough or look good enough to not make the user annoyed they are watching it.
-    * Buttons shall be big enough for people who are hard of sight to see.
-    * Text shall be big enough to be readable but not so small its hard to 
-    read.
+    * Any animation shall be as fast as possible unless the animation serves the purpose of looking nice then should be less than 3 seconds.
+
+    * Buttons shall be appropriately labeled too not create user confusion.
+    * The application shall be simple to use UX design that does not need instructions/guidelines. 
 
  3. Performance
     * The app shall be able to be used by more than 5 people at a time.
