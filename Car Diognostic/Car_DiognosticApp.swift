@@ -11,7 +11,7 @@ import SwiftUI
 struct Car_DiognosticApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }

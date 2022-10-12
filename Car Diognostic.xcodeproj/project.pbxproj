@@ -8,15 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		822D6B3328ECEDB500BC2E96 /* Car_DiognosticApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822D6B3228ECEDB500BC2E96 /* Car_DiognosticApp.swift */; };
-		822D6B3528ECEDB500BC2E96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822D6B3428ECEDB500BC2E96 /* ContentView.swift */; };
+		822D6B3528ECEDB500BC2E96 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822D6B3428ECEDB500BC2E96 /* LoginView.swift */; };
 		822D6B3728ECEDBA00BC2E96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */; };
 		822D6B3B28ECEDBA00BC2E96 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 822D6B3A28ECEDBA00BC2E96 /* Preview Assets.xcassets */; };
+		82B7092C28F721AB00BA680A /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 82B7092B28F721AB00BA680A /* FirebaseAuth */; };
+		82B7092E28F721AB00BA680A /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 82B7092D28F721AB00BA680A /* FirebaseStorage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		822D6B2F28ECEDB500BC2E96 /* Car Diognostic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Car Diognostic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		822D6B3228ECEDB500BC2E96 /* Car_DiognosticApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car_DiognosticApp.swift; sourceTree = "<group>"; };
-		822D6B3428ECEDB500BC2E96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		822D6B3428ECEDB500BC2E96 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		822D6B3828ECEDBA00BC2E96 /* Car_Diognostic.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Car_Diognostic.entitlements; sourceTree = "<group>"; };
 		822D6B3A28ECEDBA00BC2E96 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -27,6 +29,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82B7092C28F721AB00BA680A /* FirebaseAuth in Frameworks */,
+				82B7092E28F721AB00BA680A /* FirebaseStorage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				822D6B3228ECEDB500BC2E96 /* Car_DiognosticApp.swift */,
-				822D6B3428ECEDB500BC2E96 /* ContentView.swift */,
+				822D6B3428ECEDB500BC2E96 /* LoginView.swift */,
 				822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */,
 				822D6B3828ECEDBA00BC2E96 /* Car_Diognostic.entitlements */,
 				822D6B3928ECEDBA00BC2E96 /* Preview Content */,
@@ -85,6 +89,10 @@
 			dependencies = (
 			);
 			name = "Car Diognostic";
+			packageProductDependencies = (
+				82B7092B28F721AB00BA680A /* FirebaseAuth */,
+				82B7092D28F721AB00BA680A /* FirebaseStorage */,
+			);
 			productName = "Car Diognostic";
 			productReference = 822D6B2F28ECEDB500BC2E96 /* Car Diognostic.app */;
 			productType = "com.apple.product-type.application";
@@ -113,6 +121,9 @@
 				Base,
 			);
 			mainGroup = 822D6B2628ECEDB500BC2E96;
+			packageReferences = (
+				82B7092A28F721AB00BA680A /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 822D6B3028ECEDB500BC2E96 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -139,7 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				822D6B3528ECEDB500BC2E96 /* ContentView.swift in Sources */,
+				822D6B3528ECEDB500BC2E96 /* LoginView.swift in Sources */,
 				822D6B3328ECEDB500BC2E96 /* Car_DiognosticApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -350,6 +361,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		82B7092A28F721AB00BA680A /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 9.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		82B7092B28F721AB00BA680A /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 82B7092A28F721AB00BA680A /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		82B7092D28F721AB00BA680A /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 82B7092A28F721AB00BA680A /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 822D6B2728ECEDB500BC2E96 /* Project object */;
 }
