@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		822D6B3328ECEDB500BC2E96 /* Car_DiognosticApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822D6B3228ECEDB500BC2E96 /* Car_DiognosticApp.swift */; };
 		822D6B3528ECEDB500BC2E96 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 822D6B3428ECEDB500BC2E96 /* LoginView.swift */; };
 		822D6B3728ECEDBA00BC2E96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */; };
 		822D6B3B28ECEDBA00BC2E96 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 822D6B3A28ECEDBA00BC2E96 /* Preview Assets.xcassets */; };
@@ -17,7 +16,6 @@
 
 /* Begin PBXFileReference section */
 		822D6B2F28ECEDB500BC2E96 /* Car Diognostic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Car Diognostic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		822D6B3228ECEDB500BC2E96 /* Car_DiognosticApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car_DiognosticApp.swift; sourceTree = "<group>"; };
 		822D6B3428ECEDB500BC2E96 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		822D6B3828ECEDBA00BC2E96 /* Car_Diognostic.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Car_Diognostic.entitlements; sourceTree = "<group>"; };
@@ -56,7 +54,6 @@
 		822D6B3128ECEDB500BC2E96 /* Car Diognostic */ = {
 			isa = PBXGroup;
 			children = (
-				822D6B3228ECEDB500BC2E96 /* Car_DiognosticApp.swift */,
 				822D6B3428ECEDB500BC2E96 /* LoginView.swift */,
 				822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */,
 				822D6B3828ECEDBA00BC2E96 /* Car_Diognostic.entitlements */,
@@ -151,7 +148,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				822D6B3528ECEDB500BC2E96 /* LoginView.swift in Sources */,
-				822D6B3328ECEDB500BC2E96 /* Car_DiognosticApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
