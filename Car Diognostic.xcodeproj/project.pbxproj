@@ -12,6 +12,8 @@
 		822D6B3B28ECEDBA00BC2E96 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 822D6B3A28ECEDBA00BC2E96 /* Preview Assets.xcassets */; };
 		82B7092C28F721AB00BA680A /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 82B7092B28F721AB00BA680A /* FirebaseAuth */; };
 		82B7092E28F721AB00BA680A /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 82B7092D28F721AB00BA680A /* FirebaseStorage */; };
+		82B7093028F7608700BA680A /* Car Diognosis App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B7092F28F7608700BA680A /* Car Diognosis App.swift */; };
+		82B7093228F7647100BA680A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 82B7093128F7646F00BA680A /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		822D6B3828ECEDBA00BC2E96 /* Car_Diognostic.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Car_Diognostic.entitlements; sourceTree = "<group>"; };
 		822D6B3A28ECEDBA00BC2E96 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		82B7092F28F7608700BA680A /* Car Diognosis App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Car Diognosis App.swift"; sourceTree = "<group>"; };
+		82B7093128F7646F00BA680A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				822D6B3428ECEDB500BC2E96 /* LoginView.swift */,
+				82B7092F28F7608700BA680A /* Car Diognosis App.swift */,
+				82B7093128F7646F00BA680A /* GoogleService-Info.plist */,
 				822D6B3628ECEDBA00BC2E96 /* Assets.xcassets */,
 				822D6B3828ECEDBA00BC2E96 /* Car_Diognostic.entitlements */,
 				822D6B3928ECEDBA00BC2E96 /* Preview Content */,
@@ -137,6 +143,7 @@
 			files = (
 				822D6B3B28ECEDBA00BC2E96 /* Preview Assets.xcassets in Resources */,
 				822D6B3728ECEDBA00BC2E96 /* Assets.xcassets in Resources */,
+				82B7093228F7647100BA680A /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82B7093028F7608700BA680A /* Car Diognosis App.swift in Sources */,
 				822D6B3528ECEDB500BC2E96 /* LoginView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,6 +277,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "Car Diognostic/Car_Diognostic.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Car Diognostic/Preview Content\"";
@@ -305,6 +314,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "Car Diognostic/Car_Diognostic.entitlements";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Car Diognostic/Preview Content\"";
