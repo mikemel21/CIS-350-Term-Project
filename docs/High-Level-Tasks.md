@@ -14,22 +14,22 @@
 
 ------------------------------------------
 
-* Name of Task: 
-* Description (1 sentence max):
+* Name of Task: Present Diognosis Screen
+* Description (1 sentence max): Allow the user to select a sense (smell, feel, look, sounds).
+* Expected time to complete: 
+* Responsible (person in charge):
+
+------------------------------------------
+
+* Name of Task: Develop the Problem
+* Description (1 sentence max): After the user selects the senses and further questions, the app will give an output of the potential problem.
 * Expected time to complete:
 * Responsible (person in charge):
 
 ------------------------------------------
 
-* Name of Task:
-* Description (1 sentence max):
-* Expected time to complete:
-* Responsible (person in charge):
-
-------------------------------------------
-
-* Name of Task:
-* Description (1 sentence max):
+* Name of Task: Comment/upvote capability
+* Description (1 sentence max): After the user sees a solution, they can upvote a response that was helpfull or comment a solution of their own.
 * Expected time to complete:
 * Responsible (person in charge):
 
@@ -41,4 +41,6 @@
 
 
 2) Tasks that have not yet been completed
-* 
+* Present Diognosis Screen
+* Develop the Problem
+* Comment/upvote capability
