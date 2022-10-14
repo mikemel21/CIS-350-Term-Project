@@ -5,20 +5,24 @@
 * Expected time to complete: 1 hr.
 * Responsible (person in charge): Josh
 
+
 * Name of Task: Sign up/log in capability
 * Description (1 sentence max): The user can log in and save their account info to sign in again.
 * Expected time to complete: 2 hr
 * Responsible (person in charge): Josh
+
 
 * Name of Task: 
 * Description (1 sentence max):
 * Expected time to complete:
 * Responsible (person in charge):
 
+
 * Name of Task:
 * Description (1 sentence max):
 * Expected time to complete:
 * Responsible (person in charge):
+
 
 * Name of Task:
 * Description (1 sentence max):
