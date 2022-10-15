@@ -1,5 +1,5 @@
 # Team name: RedSpark
-## Members present: Joshua, Justin, Lily, Alex
+## Members present: Joshua, Lily, Alex
 
 ### Date: 02 October 2022
 
