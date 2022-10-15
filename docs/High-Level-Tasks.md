@@ -41,6 +41,6 @@
 
 
 2) Tasks that have not yet been completed
-* Present Diognosis Screen
+* Present Diagnosis Screen
 * Develop the Problem
 * Comment/upvote capability
