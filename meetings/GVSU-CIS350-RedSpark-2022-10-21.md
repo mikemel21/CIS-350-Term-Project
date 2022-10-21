@@ -1,6 +1,6 @@
-Team name: Red Spark
+# Team name: Red Spark
 
-Members present: Josh, Justin, 
+### Members present: Josh, Justin, 
 
 Date: 10/21/22
 
