@@ -1,6 +1,4 @@
 # Overview
-<Describe the purpose of this document in 1 paragraph of less … hint: it is
-your SRS>
 
 This document is essentially an organizer for the requirements for our application. It lists the various aspects/screens of our app and gives
 guidelines as to what each must accomplish in order to be identified as "completed". As our project development and processes continue, the requirements, functionalities, and aspects/screens are likely to expand and change.
@@ -17,30 +15,26 @@ guidelines as to what each must accomplish in order to be identified as "complet
 
 
 # Functional Requirements
-1. <Name of Feature 1>
- 1. <Functional Requirement 1>
- 2. <Functional Requirement 2>
- 3. <And so on>
  
-2. Opening Screen
+1. Opening Screen
     * (Task 2.1) The opening screen shall contain a place to log-in or sign-up.
     * (Task 2.2) The opening screen shall display an option for a user to reset their password in the event they forget it.
     * (Task 2.3) A remember username box shall be displayed and working for quicker login.
 
-3. Diognosis Screen
+2. Diognosis Screen
      * (Task 3.1) The options for “smell, sight, feel, sound and if it won’t start” shall be presented upon opening the app/after logging in.
      *
      
-4. Further Description Screen
+3. Further Description Screen
     * (Task 3.2) The next scene of questions shall be shown after choosing a feature listed above.
     *
  
- 5. User Feedback Screen
+4. User Feedback Screen
     * (Task 3.3) The public comments shall be presented to you at the end of diagnoses to give you a solution.
     * (Task 3.4) Users shall be able to upvote and downvote public comments
     * (Task 3.5) Software shall allow users to comment to solutions and discuss
  
- 6. Login
+5. Login
     * (Task 2.4) There shall be a sign-up button if the user has never signed up. 
     * (Task 2.5) The user shall create a username that can be displayed to other people.
     * (Task 2.6) The user shall be able to use username or email plus password to sign in.
@@ -48,7 +42,7 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * (Task 2.8) There shall be a forgotten username or password button at the bottom for the user to reset the username or password.
 
  
-7. Settings
+6. Settings
     * (Task 4.1) There shall be a settings button in the menu or after you log in.
     * (Task 4.2) There shall be a dark mode and light mode enabler in settings.
     * (Task 4.3) Admin users shall be able to verify users to be "mechanics"
@@ -56,10 +50,6 @@ guidelines as to what each must accomplish in order to be identified as "complet
  
  
 # Non-Functional Requirements
-2. <Name of Feature 1>
- 1. <Non-Functional Requirement 1>
- 2. <Non-Functional Requirement 2>
- 3. <And so on>
  
 1. Interface
     * (Task 1.1.1) The interface shall be pleasing to the eye.
