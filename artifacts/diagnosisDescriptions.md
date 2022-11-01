@@ -15,7 +15,6 @@
 * Cracked/Loose Spark Plugs
 * Bad Fuel Pressure
 
-
 ## Burning Rubber
 * Engine Burning Oil
 * Radiator Coolant Leak
@@ -130,10 +129,35 @@
 
 # Sounds Like...
 ## Tapping/Pinging
+* Inproper fuel octane
+* engine overhearing 
+* improper ignition timing
+* EGR valve not functioning properly
+* Pistion or seal broken
+
 ## Engine Running Poor
+* Inproper fuel octane
+* engine overhearing 
+* improper ignition timing
+* EGR valve not functioning properly
+* Pistion or seal broken
+
 ## Engine Backfires
+* Bent Or Damaged Valve
+* Incorrect Spark Firing Order
+* Bad Ignition Timing
+* Wrong air/fuel mixture
+
 ## Squealing Noise
+* Bad, slipping, or failing serpentine belt also know as drive belt
+* Brakes could be going bad
+* Overheainging whistle
+* Power sterring problem
+* Bad Bearing on engine
+
 ## Noise When Stopping
+* Brakes could be going bad
+
 ## Other
 
 # Wont Start
