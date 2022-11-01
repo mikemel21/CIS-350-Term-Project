@@ -1,0 +1,617 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B58F33FA2909B0B800EA5D71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F33F92909B0B800EA5D71 /* AppDelegate.swift */; };
+		B58F33FC2909B0B800EA5D71 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F33FB2909B0B800EA5D71 /* SceneDelegate.swift */; };
+		B58F33FE2909B0B800EA5D71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F33FD2909B0B800EA5D71 /* ViewController.swift */; };
+		B58F34032909B0B900EA5D71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B58F34022909B0B900EA5D71 /* Assets.xcassets */; };
+		B58F34062909B0B900EA5D71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B58F34042909B0B900EA5D71 /* LaunchScreen.storyboard */; };
+		B58F34112909B0B900EA5D71 /* CarDiagMainPageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F34102909B0B900EA5D71 /* CarDiagMainPageTests.swift */; };
+		B58F341B2909B0B900EA5D71 /* CarDiagMainPageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F341A2909B0B900EA5D71 /* CarDiagMainPageUITests.swift */; };
+		B58F341D2909B0B900EA5D71 /* CarDiagMainPageUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F341C2909B0B900EA5D71 /* CarDiagMainPageUITestsLaunchTests.swift */; };
+		B58F342A2909B22A00EA5D71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B58F34292909B22A00EA5D71 /* Main.storyboard */; };
+		B58F342B2909B22A00EA5D71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B58F34292909B22A00EA5D71 /* Main.storyboard */; };
+		B58F342C2909B22A00EA5D71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B58F34292909B22A00EA5D71 /* Main.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B58F340D2909B0B900EA5D71 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B58F33EE2909B0B800EA5D71 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B58F33F52909B0B800EA5D71;
+			remoteInfo = CarDiagMainPage;
+		};
+		B58F34172909B0B900EA5D71 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B58F33EE2909B0B800EA5D71 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B58F33F52909B0B800EA5D71;
+			remoteInfo = CarDiagMainPage;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B58F33F62909B0B800EA5D71 /* CarDiagMainPage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarDiagMainPage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B58F33F92909B0B800EA5D71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B58F33FB2909B0B800EA5D71 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		B58F33FD2909B0B800EA5D71 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B58F34022909B0B900EA5D71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B58F34052909B0B900EA5D71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B58F34072909B0B900EA5D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B58F340C2909B0B900EA5D71 /* CarDiagMainPageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarDiagMainPageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B58F34102909B0B900EA5D71 /* CarDiagMainPageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDiagMainPageTests.swift; sourceTree = "<group>"; };
+		B58F34162909B0B900EA5D71 /* CarDiagMainPageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarDiagMainPageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B58F341A2909B0B900EA5D71 /* CarDiagMainPageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDiagMainPageUITests.swift; sourceTree = "<group>"; };
+		B58F341C2909B0B900EA5D71 /* CarDiagMainPageUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDiagMainPageUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B58F34292909B22A00EA5D71 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B58F33F32909B0B800EA5D71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B58F34092909B0B900EA5D71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B58F34132909B0B900EA5D71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B58F33ED2909B0B800EA5D71 = {
+			isa = PBXGroup;
+			children = (
+				B58F33F82909B0B800EA5D71 /* CarDiagMainPage */,
+				B58F340F2909B0B900EA5D71 /* CarDiagMainPageTests */,
+				B58F34192909B0B900EA5D71 /* CarDiagMainPageUITests */,
+				B58F33F72909B0B800EA5D71 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B58F33F72909B0B800EA5D71 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B58F33F62909B0B800EA5D71 /* CarDiagMainPage.app */,
+				B58F340C2909B0B900EA5D71 /* CarDiagMainPageTests.xctest */,
+				B58F34162909B0B900EA5D71 /* CarDiagMainPageUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B58F33F82909B0B800EA5D71 /* CarDiagMainPage */ = {
+			isa = PBXGroup;
+			children = (
+				B58F33F92909B0B800EA5D71 /* AppDelegate.swift */,
+				B58F33FB2909B0B800EA5D71 /* SceneDelegate.swift */,
+				B58F33FD2909B0B800EA5D71 /* ViewController.swift */,
+				B58F34292909B22A00EA5D71 /* Main.storyboard */,
+				B58F34022909B0B900EA5D71 /* Assets.xcassets */,
+				B58F34042909B0B900EA5D71 /* LaunchScreen.storyboard */,
+				B58F34072909B0B900EA5D71 /* Info.plist */,
+			);
+			path = CarDiagMainPage;
+			sourceTree = "<group>";
+		};
+		B58F340F2909B0B900EA5D71 /* CarDiagMainPageTests */ = {
+			isa = PBXGroup;
+			children = (
+				B58F34102909B0B900EA5D71 /* CarDiagMainPageTests.swift */,
+			);
+			path = CarDiagMainPageTests;
+			sourceTree = "<group>";
+		};
+		B58F34192909B0B900EA5D71 /* CarDiagMainPageUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B58F341A2909B0B900EA5D71 /* CarDiagMainPageUITests.swift */,
+				B58F341C2909B0B900EA5D71 /* CarDiagMainPageUITestsLaunchTests.swift */,
+			);
+			path = CarDiagMainPageUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B58F33F52909B0B800EA5D71 /* CarDiagMainPage */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B58F34202909B0B900EA5D71 /* Build configuration list for PBXNativeTarget "CarDiagMainPage" */;
+			buildPhases = (
+				B58F33F22909B0B800EA5D71 /* Sources */,
+				B58F33F32909B0B800EA5D71 /* Frameworks */,
+				B58F33F42909B0B800EA5D71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CarDiagMainPage;
+			productName = CarDiagMainPage;
+			productReference = B58F33F62909B0B800EA5D71 /* CarDiagMainPage.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B58F340B2909B0B900EA5D71 /* CarDiagMainPageTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B58F34232909B0B900EA5D71 /* Build configuration list for PBXNativeTarget "CarDiagMainPageTests" */;
+			buildPhases = (
+				B58F34082909B0B900EA5D71 /* Sources */,
+				B58F34092909B0B900EA5D71 /* Frameworks */,
+				B58F340A2909B0B900EA5D71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B58F340E2909B0B900EA5D71 /* PBXTargetDependency */,
+			);
+			name = CarDiagMainPageTests;
+			productName = CarDiagMainPageTests;
+			productReference = B58F340C2909B0B900EA5D71 /* CarDiagMainPageTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B58F34152909B0B900EA5D71 /* CarDiagMainPageUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B58F34262909B0B900EA5D71 /* Build configuration list for PBXNativeTarget "CarDiagMainPageUITests" */;
+			buildPhases = (
+				B58F34122909B0B900EA5D71 /* Sources */,
+				B58F34132909B0B900EA5D71 /* Frameworks */,
+				B58F34142909B0B900EA5D71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B58F34182909B0B900EA5D71 /* PBXTargetDependency */,
+			);
+			name = CarDiagMainPageUITests;
+			productName = CarDiagMainPageUITests;
+			productReference = B58F34162909B0B900EA5D71 /* CarDiagMainPageUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B58F33EE2909B0B800EA5D71 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					B58F33F52909B0B800EA5D71 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					B58F340B2909B0B900EA5D71 = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = B58F33F52909B0B800EA5D71;
+					};
+					B58F34152909B0B900EA5D71 = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = B58F33F52909B0B800EA5D71;
+					};
+				};
+			};
+			buildConfigurationList = B58F33F12909B0B800EA5D71 /* Build configuration list for PBXProject "CarDiagMainPage" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B58F33ED2909B0B800EA5D71;
+			productRefGroup = B58F33F72909B0B800EA5D71 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B58F33F52909B0B800EA5D71 /* CarDiagMainPage */,
+				B58F340B2909B0B900EA5D71 /* CarDiagMainPageTests */,
+				B58F34152909B0B900EA5D71 /* CarDiagMainPageUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B58F33F42909B0B800EA5D71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B58F34062909B0B900EA5D71 /* LaunchScreen.storyboard in Resources */,
+				B58F34032909B0B900EA5D71 /* Assets.xcassets in Resources */,
+				B58F342A2909B22A00EA5D71 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B58F340A2909B0B900EA5D71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B58F342B2909B22A00EA5D71 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B58F34142909B0B900EA5D71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B58F342C2909B22A00EA5D71 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B58F33F22909B0B800EA5D71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B58F33FE2909B0B800EA5D71 /* ViewController.swift in Sources */,
+				B58F33FA2909B0B800EA5D71 /* AppDelegate.swift in Sources */,
+				B58F33FC2909B0B800EA5D71 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B58F34082909B0B900EA5D71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B58F34112909B0B900EA5D71 /* CarDiagMainPageTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B58F34122909B0B900EA5D71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B58F341D2909B0B900EA5D71 /* CarDiagMainPageUITestsLaunchTests.swift in Sources */,
+				B58F341B2909B0B900EA5D71 /* CarDiagMainPageUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B58F340E2909B0B900EA5D71 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B58F33F52909B0B800EA5D71 /* CarDiagMainPage */;
+			targetProxy = B58F340D2909B0B900EA5D71 /* PBXContainerItemProxy */;
+		};
+		B58F34182909B0B900EA5D71 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B58F33F52909B0B800EA5D71 /* CarDiagMainPage */;
+			targetProxy = B58F34172909B0B900EA5D71 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B58F34042909B0B900EA5D71 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B58F34052909B0B900EA5D71 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B58F341E2909B0B900EA5D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B58F341F2909B0B900EA5D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B58F34212909B0B900EA5D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S22DK6GD6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CarDiagMainPage/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Car Diagnostic";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = redspark.CarDiagnosticApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		B58F34222909B0B900EA5D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S22DK6GD6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CarDiagMainPage/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Car Diagnostic";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = redspark.CarDiagnosticApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		B58F34242909B0B900EA5D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S22DK6GD6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = redspark.CarDiagMainPageTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CarDiagMainPage.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CarDiagMainPage";
+			};
+			name = Debug;
+		};
+		B58F34252909B0B900EA5D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S22DK6GD6;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = redspark.CarDiagMainPageTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CarDiagMainPage.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CarDiagMainPage";
+			};
+			name = Release;
+		};
+		B58F34272909B0B900EA5D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S22DK6GD6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = redspark.CarDiagMainPageUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CarDiagMainPage;
+			};
+			name = Debug;
+		};
+		B58F34282909B0B900EA5D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S22DK6GD6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = redspark.CarDiagMainPageUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CarDiagMainPage;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B58F33F12909B0B800EA5D71 /* Build configuration list for PBXProject "CarDiagMainPage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B58F341E2909B0B900EA5D71 /* Debug */,
+				B58F341F2909B0B900EA5D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B58F34202909B0B900EA5D71 /* Build configuration list for PBXNativeTarget "CarDiagMainPage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B58F34212909B0B900EA5D71 /* Debug */,
+				B58F34222909B0B900EA5D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B58F34232909B0B900EA5D71 /* Build configuration list for PBXNativeTarget "CarDiagMainPageTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B58F34242909B0B900EA5D71 /* Debug */,
+				B58F34252909B0B900EA5D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B58F34262909B0B900EA5D71 /* Build configuration list for PBXNativeTarget "CarDiagMainPageUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B58F34272909B0B900EA5D71 /* Debug */,
+				B58F34282909B0B900EA5D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B58F33EE2909B0B800EA5D71 /* Project object */;
+}
