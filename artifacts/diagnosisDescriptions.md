@@ -1,4 +1,4 @@
-# Smells Like...
+# Smells Like... (Finished in app)
 ## Burning Oil
 * Dangerously Low Oil
 * Leaking Oil
@@ -35,7 +35,7 @@
 
 ## Other
 
-# Feels Like...
+# Feels Like... (Finished in app)
 ## Vehicle Shaking
 * Shaking when Braking -> Worn Out Brake Rotors;
 	- To know if this is happening and your rotors need to be replaced, you may hear grinding noises when you break or see rust or scoring on your rotors.
@@ -159,7 +159,7 @@
 
 ## Other
 
-# Sounds Like...
+# Sounds Like... (Finished in app)
 ## Tapping/Pinging
 * Inproper fuel octane
 * engine overhearing -
