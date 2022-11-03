@@ -37,19 +37,33 @@
 
 # Feels Like...
 ## Vehicle Shaking
-* Shaking when Braking -> Worn Out Brake Rotors; 
-			To know if this is happening and your rotors need to be replaced, you may hear grinding noises when you break or see rust or scoring on your rotors.
-* Shaking when Braking -> Sticking Brake Calipers; 
+* Shaking when Braking -> Worn Out Brake Rotors;
+	- To know if this is happening and your rotors need to be replaced, you may hear grinding noises when you break or see rust or scoring on your rotors.
+	- Average Cost For Repair: it costs between $150 and $500 per axle to replace the brake rotors. Usually, the front brake rotors are a little more expensive than the rear ones
+* Shaking when Braking -> Sticking Brake Calipers;
+	- To know if this is happening, your car may pull to either side. Another symptom is your break pedal sticks or stays down. You can also look for any signs of brake fluid leaking from your vehicle.
+	- Average Cost For Repair: replacing a brake caliper usually costs about $250-$600 per wheel. Alternatively, you can instead repair the caliper, which costs between $250-$350 per caliper.
 * Worn Out Suspension
+	- To confirm this is the issue, you may notice clunking noises when you hit a bump, your car veering to one side, irregular tire wear, or fluid leaking.
+	- Average Cost For Repair: The average cost of this repair is about $1,000-$5,000 depending on your vehicle. It is recommended to not try and do this repair yourself and to instead seek a repair shop.
 * Insufficient Idle RPM
+	- To confirm this is the issue, you should check your fuel injectors and see how they are, as they may be dirty. Your spark plugs may also be worn out. This issue can also be caused by a faulty throttle pedal position sensor.
+	- Average Cost For Repair: To repair a faulty throttle pedal position sensor, it will cost about $300 at a shop. if the issue is instead caused by worn out spark plugs, you can do this yourself for $20-$50.
 * Clogged Fuel Intake
+	- To confirm this is the issue, you may smell very strong odors, have hard starts, poor acceleration, or low engine performance.
+	- Average Cost For Repair: to repair the intake, it would cost between $400-$600 at a repair shop.
 * Damaged Fuel Pump
+	- To confirm this is the issue, your car may overheat, sputter at high speeds, lose power, not start, or lose gas mileage.
+	- Average Cost For Repair: The cost to replace a fuel pump starts at around $380-$500. There are also temporary fixes one can try, but it is highly recommended to just go to a shop
 
 ## Bad Braking
 * Worn Out Brake Rotors
-* Worn Out Brake Calipers
-* Sticking Brake Calipers
+	- See the description above
+* Sticking/Worn Out Brake Calipers
+	- See the description above
 * Broken Brake Hoses
+	- If this is the issue, you may experience a mushy brake pedal or leaks.
+	- Average Cost Of Repair: To totally replace the brake hoses, it would cost about $270 at a shop.
 * Uneven Tire Pressure
 * Worn Suspension Parts
 * Uneven Brake Wear
