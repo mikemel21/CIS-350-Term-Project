@@ -65,19 +65,30 @@
 	- If this is the issue, you may experience a mushy brake pedal or leaks.
 	- Average Cost Of Repair: To totally replace the brake hoses, it would cost about $270 at a shop.
 * Uneven Tire Pressure - 
+	- To confirm this issue, check to see if there are uneven tire wear on your tires. You may also experience problems steering or bad fuel economy
+	- Average Cost For Repair: Free if you have access to an air compressor. All you need to do is measure the pressure in each tire and fill up the ones that are low
 * Worn Suspension Parts
 * Uneven Brake Wear
 
 ## Vehicle is slow
 * Problem with fuel system
 * Bad fuel pump -
+	- To confirm this issue, you may have trouble starting your car, low power, sputtering, or hear a loud whining sound
+	- Average Cost For Repair: For a lower-end or older car, a replacement fuel pump installation can cost around $200-$300. For a higher-end or more complex vehicle, the installation can cost $2500
 * Clogged Fuel Filter -
+	- if this is the issue, you may also experience poor accceleration, engine hesitation, engine stalling or stoppage, or a strong odor
+	- Average Cost For Repair: you can replace your fuel filter for about $50 if you do it yourself or for around $80 if you have a mechanic do it
 * Worn Out Cluch 
 * Clogged Catalytic Converter/Exhaust -
+	- To confirm this is the issue, you may also have poor fuel economy and poor engine performance. a "check engine" light may also show.
+	- Average Cost For Repair: If it is lightly clogged, you can buy cleaners that range from $8 to $20. However, if it is to the point that it may be too damaged or old, replacing it may cost around $1,000.
 
 ## Poor Shifting
 * Improper adujustemtn to release linkage or faulty -
+	- To confirm this issue 
 * Worn engine mounts - 
+	- You may have this issue if you hear sounds of the engine bouncing around in the bay. 
+	- Average Cost For Repair: to replace the mounts, it would cost around $200
 * Worn transminssion mounts
 * Imporper installation of the shifter
 * Bell houseing misalignement
@@ -85,20 +96,26 @@
 * Damage or defective pruessue plate drive straps
 * Improper lubrication of the input shaft during installation 
 * Clutch disc spring carriage hitting flywheel or flywheel bolts -
+	- You can confirm this issue ...
+	- Average Cost of Repair: This issue can potentially be solved by reversing the clutch disk
 * Pilot bearing/bushing binding on the transmission input shaft 
 * Worn transmission synchronizer rings 
 
 ## Steering is not straight
-* Normal ware and tear -
+* Normal wear and tear - 
+	- Average Cost For Repair: Bring to shop so they can evaluate car. Price will vary
 * Recent accident 
 * Hit alot of potholes reasently 
-* Suspention damage -
+* Suspension damage -
+	- To confirm this is the issue, you may also experience feeling more bumps in the road or your car may be sitting lower than the other parts of your car.
+	- Average Cost to Repair: The cost widely varies based on the state of the suspension, but a total suspension replacement can cost up to $5,000.
 
 ## Other
 
 # Looks Like...
 ## Smoke
 * Low on oil -
+	- When you are low on oil, 
 * Low on transmition fluid
 * Low on coolant -
 * Burning off some condinsation on engine -
@@ -146,7 +163,7 @@
 ## Tapping/Pinging
 * Inproper fuel octane
 * engine overhearing -
-* improper ignition timing -
+* improper ignition timing- 
 * EGR valve not functioning properly
 * Pistion or seal broken -
 
