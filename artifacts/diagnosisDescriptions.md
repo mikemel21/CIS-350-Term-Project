@@ -37,8 +37,9 @@
 
 # Feels Like...
 ## Vehicle Shaking
-* Shaking when Braking -> Worn Out Brake Rotors
-* Shaking when Braking -> Sticking Brake Calipers
+* Shaking when Braking -> Worn Out Brake Rotors; 
+			To know if this is happening and your rotors need to be replaced, you may hear grinding noises when you break or see rust or scoring on your rotors.
+* Shaking when Braking -> Sticking Brake Calipers; 
 * Worn Out Suspension
 * Insufficient Idle RPM
 * Clogged Fuel Intake
