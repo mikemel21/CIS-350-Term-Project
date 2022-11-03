@@ -177,8 +177,25 @@
 
 # Wont Start
 ## Electric But No Start -
+* Starter solenoid problem if you dont hear a click but radio and lights work
+* Ignithion switch problem/fuse to it problem
+* Might need new spark plugs if you hear it trying to start.
+
 ## Engine Dies/Stalls -
+* Lack of fuel
+* Imprroper Ignitoin
+* Air intake/filter clogged causeing engine to not get air.
+
 ## Shift But No Movement -
+* Clutch componetns have worn out
+* Transmition stuch in two gears at the same time causeing not to move
+* Shift mechanism malfunction keeping you from selecting a gear
+
 ## No Electric At All -
+* Battery has gone bad and should be taken for testing
+* Fuse is blew stoping your car from running
+* Ignition switch power failure
+
 ## Weak Engine -
+
 ## Other
