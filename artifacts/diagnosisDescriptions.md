@@ -176,9 +176,9 @@
 ## Other
 
 # Wont Start
-## Electric But No Start
+## Electric But No Start -
 ## Engine Dies/Stalls -
 ## Shift But No Movement -
 ## No Electric At All -
-## Weak Engine
+## Weak Engine -
 ## Other
