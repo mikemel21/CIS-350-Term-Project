@@ -166,7 +166,7 @@
 ## Squealing Noise
 * Bad, slipping, or failing serpentine belt also know as drive belt
 * Brakes could be going bad -
-* Overheainging whistle -
+* Whistle of overheating -
 * Power sterring problem -
 * Bad Bearing on engine
 
