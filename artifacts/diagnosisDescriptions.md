@@ -115,18 +115,28 @@
 # Looks Like...
 ## Smoke
 * Low on oil -
-	- When you are low on oil, 
+	- When you are low on oil, your oil light on you car may light up and you may also smell burning.
+	- Average Cost For Repair: you can do an oil change yourself for about $25, but if you go to a shop, it can cost up to $100.
 * Low on transmition fluid
 * Low on coolant -
+	- When you are low on coolant, your engine may overheat or seize
+	- Average Cost of Repair: if your coolant just needs a refill, it will cost about $120 to have it done at a shop
 * Burning off some condinsation on engine -
+	- if this is the issue, allowing the condensation to burn off on its own is the best idea
 * Piston gassgent ring wore out
 * PCV tube clogged 
 
 ## Poor gas mileage
 * Low tire pressure -
+	- If this is the issue, you may have a bumpier drive and your tires may wear unevenly
+	- Average Cost of Repair: free if you have access to an air compressor. Simply fill up the tires that are low until they are all the same pressure
 * Air filter could be old or dirty -
+	- When your air filter is old or dirty, your engine may make strange noises, you may have a strong fuel smell, or black smoke may come from the exhaust pipe.
+	- Average Cost of Repair: if they air filter is just dirty, you can clean it at home. If it is old, a replacement at a shop may be about $30.
 * Oxygen sensors failing or tripping when it should not
 * Spark plugs not functioning properly -
+	- If your spark plugs are not functioning properly, you may also experience slow acceleration and rough idling
+	- Average Cost of Repair: Replacing spark plugs costs about $140.
 * Dirty/bad fuel injetor and or filter
 * Running the A/C alot
 * Exhost pipe leak
@@ -136,11 +146,17 @@
 
 ## Worn tire
 * Old tires -
+	- You can tell if your tires are old by the date on the side of them
+	- Average Cost of Repair: replacing all 4 tires can cost between $600-$800.
 * Tires with alot of millage on them -
+	- Tires with alot of mileage on them may be very worn out and potentially require replacement.
 * Hole punctured in tire -
+	- A hole in your tire can cause your wheel to lose pressure which can caus eyour car to veer a certain direction. It may also create uneven wear on your tires.
+	- Average Cost of Repair: If the hole is minor, you cna purchase a patch kit for about $30. If it is a large hole, you may need to replace the tire, which can be $100-$200
 
 ## Warning Light
 * Your cars tempature is to high -
+	- 
 * Low oil pressure
 * Batter charge is low
 * Tire pressure is low -
