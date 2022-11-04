@@ -155,30 +155,40 @@
 	- Average Cost of Repair: If the hole is minor, you cna purchase a patch kit for about $30. If it is a large hole, you may need to replace the tire, which can be $100-$200
 
 ## Warning Light
-* Your cars tempature is to high -
-	- 
+* Your cars temperature is too high -
+	- The temperature in your car can be high due to things such as having air in the cooling system, worn out hosing or fan, or worn waterpump
+	- Average Cost for Repair: if you have air in the cooling system, you may need a coolant flush, which can range from $71 to $115. 
 * Low oil pressure
 * Batter charge is low
 * Tire pressure is low -
-* Door is open 
+	- This warning light illuminates if one or more of your tires are low on air
+	- Average Cost for repair: if it is simply low on air, you can fill up the low tires with an air compressor. If the tires are leaking, you may need to replace them, which can cost $130
+* Door is open
 * Engine is malfunctioning -
+
 * Brakeing system probem 
 
 ## High Engine Temp
 * Low or to litlle coolant/leak
 * Broken water pump -
-* Radiator issue 
+	- A broken water pump can cause a coolant leak and make your engine overheat
+	- Average Cost for Repair: If you replace the water pump yourself, it will cost $200-$350, but if you have a mechanic replace it, it can cost upwards of $750
+* Radiator issue
 * Oil is low
-* Engine thermostat failure -
+* Engine thermostat failure - 
+	- An engine thermostat failure can be the cause of your engine overheating, erratic temperature changes, and coolant leaks
+	- Average Cost for Repair: To replace the thermostat by itself, it costs an average of $150-$200
 * Belt are not functioning properly
 * Heat exchanger clogged or blocked -
+	- a clogged heat exchanger can cause overheating and coolant leaks
+	- Average Cost For Repair: you can purchase heat exchanger unclogger for about $8
 
 ## Other
 
 # Sounds Like... (Finished in app)
 ## Tapping/Pinging
 * Inproper fuel octane
-* engine overhearing -
+* engine overheating -
 * improper ignition timing- 
 * EGR valve not functioning properly
 * Pistion or seal broken -
