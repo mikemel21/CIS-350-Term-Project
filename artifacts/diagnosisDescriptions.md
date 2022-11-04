@@ -218,7 +218,7 @@
 
 ## Other
 
-# Wont Start
+# Wont Start (Finished in app)
 ## Electric But No Start -
 * Starter solenoid problem if you dont hear a click but radio and lights work
  	- If the starter engages but does not disengage when you let go of the key.
