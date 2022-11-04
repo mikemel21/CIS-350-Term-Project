@@ -211,25 +211,59 @@
 # Wont Start
 ## Electric But No Start -
 * Starter solenoid problem if you dont hear a click but radio and lights work
+ 	- If the starter engages but does not disengage when you let go of the key.
+	- Average Cost of Repair: Cost of replacement ranges form $200-$500 for mechanic.
+	
 * Ignithion switch problem or fuse to it problem
+	- Difficulty turning the key
+	- Average Cost of Repair: Between $300-$400 on average cost of replacement.
+	
 * Might need new spark plugs if you hear it trying to start.
+ 	- Your car will not start but you here the spark plugs going off.
+	- Average Cost of Repair: Can cost between $16-$100 for a new set of spark plugs.
 
 ## Engine Dies/Stalls -
 * Lack of fuel
+ 	- You exsperianced engine sputter or any signs of fuel starvation from car before it shut off.
+	- Get a friend or servance to bring you gas to start your car again.
+	
 * Your alternator could be dead
+ 	- You could see your cars front headlights dim or be overly bright. Your batter could hold a charge but is dieing duo to not working alternator. Trouble startingn car.  
+	- Average Cost of Repair: It cost anywhere from $100-$400 ro replace alternator.
+	
 * Air intake/filter clogged causeing engine to not get air.
+ 	- Remove blockage or clean air filter.
+	- Average Cost of Repair: To buy a new air filter it cost between $15-$25.
 
 ## Shift But No Movement -
 * Clutch componetns have worn out
-* Transmition stuck in two gears at the same time causeing not to move
+	- Your cluch pedal could feell stucky or lose. You coudl have weak acceleration. Will not stay in gear or wont shift into gear.
+	- Average Cost of Repair: Can cost between $500-$2500 to fix clutch.
+
+* Transmission stuck in two gears at the same time causeing not to move
+	- The solenoid in your transmission could be faililng or faulty sensors.
+	- Average Cost of Repair: The average price to repare transmiton is $300-$1,400.
+	
 * Shift mechanism malfunction keeping you from selecting a gear
+	- You can not move your shifter.
+	- Average Cost of Repair: If the cause is a lose hifter linkage could be between $50-$75. Could also be shifter cables which cost around $100-$300.
 
 ## No Electric At All -
 * Battery has gone bad and should be taken for testing
+ 	- The batery could be old. You could take it to a shop to test your battery.
+	- Average Cost of Repair: Replaceing a battery can cost between $45-250 depending on who does it and how long of a lasting battery you want.
+	
 * Fuse is blew stoping your car from running
+	- If you see any burnt/melted wires in fuse box area.
+	- Average Cost of Repair: New fuse cost between $10-$20. Price will vary due to labor if you have a mechanic replace it.
+	
 * Ignition switch power failure
+	- Difficulty turning the key.
+	- Average Cost of Repair: Between $300-$400 on average cost of replacement.
 
 ## Weak Engine -
 * Engine replacement needed
+	- You have an old car and you whole engine mostlikly needs replaced.
+	- Average Cost of Repair: To replace Engine it can cost between $3000-$6000.
 
 ## Other
