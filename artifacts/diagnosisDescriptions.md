@@ -112,7 +112,7 @@
 
 ## Other
 
-# Looks Like...
+# Looks Like... (Finished in app)
 ## Smoke
 * Low on oil -
 	- When you are low on oil, your oil light on you car may light up and you may also smell burning.
