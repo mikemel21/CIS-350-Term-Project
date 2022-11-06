@@ -41,12 +41,13 @@ class SignupViewController: UIViewController {
     }
     
     func signUP() {
-        Auth.auth().createUser(withEmail: email.text!, password: password.text!) { authResult, error in
+        Auth.auth().createUser(withEmail: email.text!, password: password.text!) { (authResult, error) in
             guard let user = authResult?.user, error == nil else{
                 print("Error \(error?.localizedDescription)")
                 return
             }
-            let storyboard = UIStoryboard(name: "mainHome", bundle: nil)
+            
+            let storyboard = UIStoryboard(name: "Main", bundle: nil)
             let vc = self.storyboard?.instantiateViewController(withIdentifier: "mainHome")
             vc?.modalPresentationStyle = .overFullScreen
             self.present(vc!, animated: true)
