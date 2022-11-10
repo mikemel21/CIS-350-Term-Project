@@ -7,7 +7,7 @@ guidelines as to what each must accomplish in order to be identified as "complet
 - Tasks with 2 numbers EX: 2.1, 2.2 relate to **Functional Requirements**
 - 2.0-2.9 Opening Screen/Login.
 - 3.0-3.9 App Fuction
-- 4.0-4.9 Settings
+- 4.0-4.9 Settings 
 - Tasks with 3 numbers EX: 2.1.2, 2.2.3 relate to **Non-Functional Requirements**
 - 1.1.0-1.1.9 Interface
 - 2.1.0-2.1.9 Usability
@@ -17,16 +17,16 @@ guidelines as to what each must accomplish in order to be identified as "complet
 # Functional Requirements
  
 1. Opening Screen
-    * (Task 2.1) The opening screen shall contain a place to log-in or sign-up.
+    * (Task 2.1) The opening screen shall contain a place to log-in or sign-up. (done)
     * (Task 2.2) The opening screen shall display an option for a user to reset their password in the event they forget it.
     * (Task 2.3) A remember username box shall be displayed and working for quicker login.
 
 2. Diognosis Screen
-     * (Task 3.1) The options for “smell, sight, feel, sound and if it won’t start” shall be presented upon opening the app/after logging in.
+     * (Task 3.1) The options for “smell, sight, feel, sound and if it won’t start” shall be presented upon opening the app/after logging in. (done)
      *
      
 3. Further Description Screen
-    * (Task 3.2) The next scene of questions shall be shown after choosing a feature listed above.
+    * (Task 3.2) The next scene of questions shall be shown after choosing a feature listed above. (done)
     *
  
 4. User Feedback Screen
@@ -35,10 +35,10 @@ guidelines as to what each must accomplish in order to be identified as "complet
     * (Task 3.5) Software shall allow users to comment to solutions and discuss
  
 5. Login
-    * (Task 2.4) There shall be a sign-up button if the user has never signed up. 
-    * (Task 2.5) The user shall create a username that can be displayed to other people.
-    * (Task 2.6) The user shall be able to use username or email plus password to sign in.
-    * (Task 2.7) If the user enters the password or username wrong, there shall be a prompt displayed saying wrong password or username.   
+    * (Task 2.4) There shall be a sign-up button if the user has never signed up. (done)
+    * (Task 2.5) The user shall create a username that can be displayed to other people. (partially done)
+    * (Task 2.6) The user shall be able to use username or email plus password to sign in. (done)
+    * (Task 2.7) If the user enters the password or username wrong, there shall be a prompt displayed saying wrong password or username. (done) 
     * (Task 2.8) There shall be a forgotten username or password button at the bottom for the user to reset the username or password.
 
  
@@ -52,28 +52,28 @@ guidelines as to what each must accomplish in order to be identified as "complet
 # Non-Functional Requirements
  
 1. Interface
-    * (Task 1.1.1) The interface shall be pleasing to the eye.
+    * (Task 1.1.1) The interface shall be pleasing to the eye. (done)
     * (Task 1.1.2) The interface shall have a dark mode and light mode options.
     * (Task 1.1.3) Up to 20 solutions shall be displayed on the solutions page.
     
 2. Usability
-    * (Task 2.1.1) The app shall always be available for the user to use at any time.
-    * (Task 2.1.2) The app shall be accommodating to those with disabilities.
-    * (Task 2.1.3) Any animation shall be as fast as possible unless the animation serves the purpose of looking nice then should be less than 3 seconds.
+    * (Task 2.1.1) The app shall always be available for the user to use at any time. (done)
+    * (Task 2.1.2) The app shall be accommodating to those with disabilities. (done)
+    * (Task 2.1.3) Any animation shall be as fast as possible unless the animation serves the purpose of looking nice then should be less than 3 seconds. (done)
 
-    * (Task 2.1.4) Buttons shall be appropriately labeled too not create user confusion.
-    * (Task 2.1.5) The application shall be simple to use UX design that does not need instructions/guidelines. 
+    * (Task 2.1.4) Buttons shall be appropriately labeled too not create user confusion. (done)
+    * (Task 2.1.5) The application shall be simple to use UX design that does not need instructions/guidelines. (done)
 
  3. Performance
-    * (Task 3.1.1) The app shall be able to be used by more than 5 people at a time.
-    * (Task 3.1.2) Software shall take less than 5 seconds to open and load.
-    * (Task 3.1.3) Software shall work on every iPhone that supports iOS 14 and up.
+    * (Task 3.1.1) The app shall be able to be used by more than 5 people at a time. (done)
+    * (Task 3.1.2) Software shall take less than 5 seconds to open and load. (done)
+    * (Task 3.1.3) Software shall work on every iPhone that supports iOS 14 and up. (done)
   
  4. Reliability
-    * (Task 3.1.4) Information found should be accurate for user.
-    * (Task 3.1.5) Solutions will be monitered to insure reliability.
-    * (Task 3.1.6) App should not crash due to extended use or system bugs.
+    * (Task 3.1.4) Information found should be accurate for user. (done)
+    * (Task 3.1.5) Solutions will be monitered to insure reliability. (done)
+    * (Task 3.1.6) App should not crash due to extended use or system bugs. (done)
  
  5. Scalability
-    * (Task 3.1.7) App can handle increased usage and more data as time progresses.
-    * (Task 3.1.8) Data can be stored and accessed in a way that optimizes storage and avoids delays.
+    * (Task 3.1.7) App can handle increased usage and more data as time progresses. (done)
+    * (Task 3.1.8) Data can be stored and accessed in a way that optimizes storage and avoids delays. (done)
