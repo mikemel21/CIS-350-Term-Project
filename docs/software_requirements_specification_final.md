@@ -3,6 +3,9 @@
 This document is essentially an organizer for the requirements for our application. It lists the various aspects/screens of our app and gives
 guidelines as to what each must accomplish in order to be identified as "completed". As our project development and processes continue, the requirements, functionalities, and aspects/screens are likely to expand and change.
 
+# Software Requirements
+<Describe the structure of this section>
+
 # Functional Requirements
  
 1. Login System/Screen
@@ -48,3 +51,11 @@ If we do user feedback these can go with whats above
  Software shall work on every iPhone that supports iOS 14 and up.
  App should not crash due to extended use or system bugs.
  App can handle increased usage and more data as time progresses.
+
+
+# Software Artifacts
+- This section inclues all of the documents we have created throughout this semester to aid our efforts in completing our app. 
+ 
+ * Use Case Diagram: 
+ * Gantt Chart: 
+ * Diagnosis Descriptions:
