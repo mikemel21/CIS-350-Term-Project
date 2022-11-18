@@ -64,5 +64,5 @@ Our requirements were created with the focus of usablitiy and reliability for th
  
  * [Use Case Diagram](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/master/artifacts/CIS%20350%20-%20Use%20Case%20Diagrams.drawio.pdf) 
  * [Gantt Chart](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/76409cd12e47cae1bad952957605c301511e561e/artifacts/Gantt_Chart_RedSpark.pdf)
- * [Diagnosis Descriptions](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/e18e19c18dda55cb6071be42bee80f40a02a34b5/artifacts/Diagnosis%20Description.pdf)
+ * [Diagnosis Descriptions](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/6753772b9c73250f1651c5dd8480209ec81fb7c2/artifacts/Diagnosis%20Description.pdf)
  * [App Presentation](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/bf2621aef61bf21aefab44905442c2d3c62188da/docs/Car%20Diagnosis%20App%20Presentation.pdf)
