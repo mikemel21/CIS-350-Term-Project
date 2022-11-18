@@ -59,4 +59,4 @@ If we do user feedback these can go with whats above
  * [Use Case Diagram](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/master/artifacts/CIS%20350%20-%20Use%20Case%20Diagrams.drawio.pdf) 
  * Gantt Chart: 
  * [Diagnosis Descriptions](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/e18e19c18dda55cb6071be42bee80f40a02a34b5/artifacts/Diagnosis%20Description.pdf)
- * App Presentation: 
+ * [App Presentation](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/bf2621aef61bf21aefab44905442c2d3c62188da/docs/Car%20Diagnosis%20App%20Presentation.pdf)
