@@ -4,7 +4,8 @@ This document is essentially an organizer for the requirements for our applicati
 guidelines as to what each must accomplish in order to be identified as "completed". As our project development and processes continue, the requirements, functionalities, and aspects/screens are likely to expand and change.
 
 # Software Requirements
-<Describe the structure of this section>
+
+Our requirements were created with the focus of usablitiy and reliability for the user. We wanted something that they could use in the event of a car issue and there is no other help nearby. Our app is easy to use and straightforward for anyone to download and get an easy answer quickly. 
 
 # Functional Requirements
  
@@ -44,15 +45,20 @@ If we do user feedback these can go with whats above
     * Buttons shall be appropriately labeled so there is no user confusion.
     * The application shall be simple to use and have a design that does not need instructions/guidelines to use.
  
- Options I think we can use:
+ 2. System Requirements
+    * Software shall work on every iPhone that supports iOS 16 and up.
+    * The software shall run on Xcode14 and above.
+    * 
+    *
+    *
  
-* Information found should be accurate for user.
-* Software shall take less than 5 seconds to open and load.
-* Software shall work on every iPhone that supports iOS 16 and up.
-* App should not crash due to extended use or system bugs.
-* App can handle increased usage and more data as time progresses.
-
-
+ 3. Basic Background App Support:
+    * Software shall take less than 5 seconds to open and load.
+    * App should not crash due to extended use or system bugs.
+    * App can handle increased usage and more data as time progresses.
+    *
+    *
+ 
 # Software Artifacts
 - This section inclues all of the documents we have created throughout this semester to aid our efforts in completing our app. 
  
