@@ -57,6 +57,6 @@ If we do user feedback these can go with whats above
 - This section inclues all of the documents we have created throughout this semester to aid our efforts in completing our app. 
  
  * [Use Case Diagram](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/master/artifacts/CIS%20350%20-%20Use%20Case%20Diagrams.drawio.pdf) 
- * Gantt Chart: 
+ * [Gantt Chart](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/76409cd12e47cae1bad952957605c301511e561e/artifacts/Gantt_Chart_RedSpark.pdf)
  * [Diagnosis Descriptions](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/e18e19c18dda55cb6071be42bee80f40a02a34b5/artifacts/Diagnosis%20Description.pdf)
  * [App Presentation](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/bf2621aef61bf21aefab44905442c2d3c62188da/docs/Car%20Diagnosis%20App%20Presentation.pdf)
