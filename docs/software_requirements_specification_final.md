@@ -46,11 +46,11 @@ If we do user feedback these can go with whats above
  
  Options I think we can use:
  
- Information found should be accurate for user.
- Software shall take less than 5 seconds to open and load.
- Software shall work on every iPhone that supports iOS 14 and up.
- App should not crash due to extended use or system bugs.
- App can handle increased usage and more data as time progresses.
+* Information found should be accurate for user.
+* Software shall take less than 5 seconds to open and load.
+* Software shall work on every iPhone that supports iOS 14 and up.
+* App should not crash due to extended use or system bugs.
+* App can handle increased usage and more data as time progresses.
 
 
 # Software Artifacts
