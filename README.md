@@ -18,3 +18,7 @@
 ## Prerequisites
 
 ## Run Instructions
+0. Download files
+1. Open in Xcode
+2. Run main.storyboard file in simulator or connected target device
+3. Use App.
