@@ -24,7 +24,7 @@ Our requirements were created with the focus of usablitiy and reliability for th
     * -
     * -
 
-If we do user feedback these can go with whats above
+### If we do user feedback these can go with whats above
     * The public comments shall be presented to you at the end of diagnoses to give you a solution.
     * Users shall be able to upvote and downvote public comments
     * Software shall allow users to comment to solutions and discuss
@@ -48,15 +48,15 @@ If we do user feedback these can go with whats above
  2. System Requirements
     * Software shall work on every iPhone that supports iOS 16 and up.
     * The software shall run on Xcode14 and above.
+    * Firebase shall store all usernames and passwords.
+    * The app shall function for basic answers without internet connection.
     * 
-    *
-    *
  
  3. Basic Background App Support:
     * Software shall take less than 5 seconds to open and load.
     * App should not crash due to extended use or system bugs.
     * App can handle increased usage and more data as time progresses.
-    *
+    * 
     *
  
 # Software Artifacts
