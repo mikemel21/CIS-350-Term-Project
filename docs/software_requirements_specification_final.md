@@ -58,5 +58,5 @@ If we do user feedback these can go with whats above
  
  * Use Case Diagram: 
  * Gantt Chart: 
- * Diagnosis Descriptions:
+ * [Diagnosis Descriptions](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/62bd476229bec34ba83bad3268f797ac42179270/artifacts/Diagnosis%20Descriptions.pdf)
  * App Presentation: 
