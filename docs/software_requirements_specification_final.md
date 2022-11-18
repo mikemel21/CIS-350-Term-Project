@@ -56,7 +56,7 @@ If we do user feedback these can go with whats above
 # Software Artifacts
 - This section inclues all of the documents we have created throughout this semester to aid our efforts in completing our app. 
  
- * [Use Case Diagram] (https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/master/artifacts/CIS%20350%20-%20Use%20Case%20Diagrams.drawio.pdf) 
+ * [Use Case Diagram](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/master/artifacts/CIS%20350%20-%20Use%20Case%20Diagrams.drawio.pdf) 
  * Gantt Chart: 
  * [Diagnosis Descriptions](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/62bd476229bec34ba83bad3268f797ac42179270/artifacts/Diagnosis%20Descriptions.pdf)
  * App Presentation: 
