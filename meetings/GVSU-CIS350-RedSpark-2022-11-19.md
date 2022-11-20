@@ -8,7 +8,7 @@ Team name: Red Spark
 
 Members present: Mike, Justin, Lily, Alex, Josh
 
-Date: 11/20/2022
+Date: 11/19/2022
 
 Time: 11:30am
 
