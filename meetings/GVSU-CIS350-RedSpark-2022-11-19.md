@@ -14,6 +14,7 @@ Time: 11:30am
 
 Discussion points: 
 * Things we might want to test for.
+* Finalize assigment due on Decemebter 10th.
 
 
 Goals for next week (include responsibilities)
