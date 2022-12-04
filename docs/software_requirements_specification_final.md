@@ -20,21 +20,16 @@ Our requirements were created with the focus of usablitiy and reliability for th
 2. Opening Screen/Further screens
     * Once logged in, the options for “smell, sight, feel, sound and if it won’t start” shall be presented upon opening the app/after logging in.
     * Once the user clicks an option, they shall get a list of "smells, sights, feels, etc." to choose from.
-    * Once the user chooses an option based on the senses, they shall get a list of answers, recomondation on what to do, and the average cost for repair.
-    * -
-    * -
-
-### If we do user feedback these can go with whats above
-    * The public comments shall be presented to you at the end of diagnoses to give you a solution.
-    * Users shall be able to upvote and downvote public comments
-    * Software shall allow users to comment to solutions and discuss
+    * Once the user chooses an option based on the senses, they shall get a list of answers, recomendation on what to do, and the average cost for repair.
+    * The solution screen shall display an option to view community comments.
+    * Comments shall be stored and viewed by users, as well as shall have an option to create new.
      
 3. Settings
-    * There shall be a settings button on the opening screen/diognosis screen.
+    * There shall be a settings button on the opening screen/diagnosis screen.
     * There shall be a dark mode and light mode enabler in settings.
     * There shall be a "log out" button inside the settings for the user to log out.
-    * Admin users shall be able to verify users to be "mechanics"
-    * -
+    * Admin users shall be able to verify users to be "mechanics".
+    * There shall be an option to return to main page from Settings menu.
 
 # Non-Functional Requirements
 
