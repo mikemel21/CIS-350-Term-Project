@@ -22,7 +22,7 @@ Our requirements were created with the focus of usability and reliability for th
     * Once the user clicks an option, they shall get a list of "smells, sights, feels, etc." to choose from.
     * Once the user chooses an option based on the senses, they shall get a list of answers, recommendation on what to do, and the average cost for repair.
     * The solution screen shall display an option to view community comments.
-    * Comments shall be stored and viewed by users, as well as shall have an option to create new.
+    * Comments shall be stored and viewed by users, as well as have an option to create new.
      
 3. Settings
     * There shall be a settings button on the opening screen/diagnosis screen.
