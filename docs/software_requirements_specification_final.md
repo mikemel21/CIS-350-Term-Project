@@ -61,3 +61,4 @@ Our requirements were created with the focus of usability and reliability for th
  * [Gantt Chart](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/76409cd12e47cae1bad952957605c301511e561e/artifacts/Gantt_Chart_RedSpark.pdf)
  * [Diagnosis Descriptions](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/6753772b9c73250f1651c5dd8480209ec81fb7c2/artifacts/Diagnosis%20Description.pdf)
  * [App Presentation](https://github.com/mikemel21/GVSU-CIS350-RedSpark/blob/bf2621aef61bf21aefab44905442c2d3c62188da/docs/Car%20Diagnosis%20App%20Presentation.pdf)
+ * (Final Presentation)
