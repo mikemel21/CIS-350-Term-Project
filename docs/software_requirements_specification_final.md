@@ -15,7 +15,6 @@ Our requirements were created with the focus of usability and reliability for th
     * The user shall create a password to use for future log in.
     * The user shall be able to use their personal username and password to log in.
     * If the user enters the password or username wrong, there shall be a prompt displayed to notify the user that they typed their login credentials incorrectly.
-    * There shall be a forgotten username or password button at the bottom for the user to reset the username or password. (maybe?)
 
 2. Opening Screen/Further screens
     * Once logged in, the options for “smell, sight, feel, sound and if it won’t start” shall be presented upon opening the app/after logging in.
