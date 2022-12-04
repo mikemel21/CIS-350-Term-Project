@@ -22,13 +22,13 @@ Our requirements were created with the focus of usability and reliability for th
     * Once the user clicks an option, they shall get a list of "smells, sights, feels, etc." to choose from.
     * Once the user chooses an option based on the senses, they shall get a list of answers, recommendation on what to do, and the average cost for repair.
     * The solution screen shall display an option to view community comments.
-    * Comments shall be stored and viewed by users, as well as have an option to create new.
+    * The user shall be able to post new comments for other users to see.
      
 3. Settings
     * There shall be a settings button on the opening screen/diagnosis screen.
     * There shall be a dark mode and light mode enabler in settings.
     * There shall be a "log out" button inside the settings for the user to log out.
-    * Admin users shall be able to verify users to be "mechanics".
+    * 
     * There shall be an option to return to main page from Settings menu.
 
 # Non-Functional Requirements
@@ -39,22 +39,21 @@ Our requirements were created with the focus of usability and reliability for th
     * The transition screens shall be fast, so the user does not think their device is slow.
     * Buttons shall be appropriately labeled so there is no user confusion.
     * The application shall be simple to use and have a design that does not need instructions/guidelines to use.
-    * The application shall be easy to navigate though (forward backward buttons allow this) 
-    * 
+    * The application shall be easy to navigate though (Swipe down screen allows for this) 
  
  2. System Requirements
     * Software shall work on every iPhone that supports iOS 16 and up.
     * The software shall run on Xcode14 and above.
-    * Firebase shall store all usernames and passwords.
+    * "Firebase" shall store all usernames and passwords.
     * The app shall function for basic answers without internet connection.
-    * 
+    * "Pusher" shall store and save all user comments.
  
  3. Basic Background App Support:
-    * Software shall take less than 5 seconds to open and load.
+    * Software shall take less than 5 seconds to start running.
     * App should not crash due to extended use or system bugs.
     * App can handle increased usage and more data as time progresses.
+    * Users can see comments updated in real time.
     * 
-    *
  
 # Software Artifacts
 - This section inclues all of the documents we have created throughout this semester to aid our efforts in completing our app. 
