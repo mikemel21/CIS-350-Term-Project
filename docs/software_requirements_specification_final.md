@@ -39,7 +39,7 @@ Our requirements were created with the focus of usablitiy and reliability for th
     * The transition screens shall be fast, so the user does not think their device is slow.
     * Buttons shall be appropriately labeled so there is no user confusion.
     * The application shall be simple to use and have a design that does not need instructions/guidelines to use.
-    * Easy to navigate though (forward backward buttons allow this) 
+    * The application shall be easy to navigate though (forward backward buttons allow this) 
  
  2. System Requirements
     * Software shall work on every iPhone that supports iOS 16 and up.
