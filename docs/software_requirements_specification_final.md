@@ -27,7 +27,7 @@ Our requirements were created with the focus of usability and reliability for th
     * There shall be a settings button on the opening screen/diagnosis screen.
     * There shall be a dark mode and light mode enabler in settings.
     * There shall be a "log out" button inside the settings for the user to log out.
-    * 
+    * There shall be a "terms and condtitions" button that takes the user to the terms and conditons page.
     * There shall be an option to return to main page from Settings menu.
 
 # Non-Functional Requirements
