@@ -53,7 +53,7 @@ Our requirements were created with the focus of usability and reliability for th
     * App should not crash due to extended use or system bugs.
     * App can handle increased usage and more data as time progresses.
     * Users can see comments updated in real time.
-    * 
+    * Users comments can be monitored and deleted if they don't suit the app.
  
 # Software Artifacts
 - This section inclues all of the documents we have created throughout this semester to aid our efforts in completing our app. 
