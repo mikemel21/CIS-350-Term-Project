@@ -5,7 +5,7 @@ guidelines as to what each must accomplish in order to be identified as "complet
 
 # Software Requirements
 
-Our requirements were created with the focus of usablitiy and reliability for the user. We wanted something that they could use in the event of a car issue and there is no other help nearby. Our app is easy to use and straightforward for anyone to download and get an easy answer quickly. 
+Our requirements were created with the focus of usability and reliability for the user. We wanted something that they could use in the event of a car issue and there is no other help nearby. Our app is easy to use and straightforward for anyone to download and get an easy answer quickly. 
 
 # Functional Requirements
  
@@ -14,13 +14,13 @@ Our requirements were created with the focus of usablitiy and reliability for th
     * The user shall create a username to use for future log in.
     * The user shall create a password to use for future log in.
     * The user shall be able to use their personal username and password to log in.
-    * If the user enters the password or username wrong, there shall be a prompt displayed to notify the user that they typed their login credintials incorectly.
+    * If the user enters the password or username wrong, there shall be a prompt displayed to notify the user that they typed their login credentials incorrectly.
     * There shall be a forgotten username or password button at the bottom for the user to reset the username or password. (maybe?)
 
 2. Opening Screen/Further screens
     * Once logged in, the options for “smell, sight, feel, sound and if it won’t start” shall be presented upon opening the app/after logging in.
     * Once the user clicks an option, they shall get a list of "smells, sights, feels, etc." to choose from.
-    * Once the user chooses an option based on the senses, they shall get a list of answers, recomendation on what to do, and the average cost for repair.
+    * Once the user chooses an option based on the senses, they shall get a list of answers, recommendation on what to do, and the average cost for repair.
     * The solution screen shall display an option to view community comments.
     * Comments shall be stored and viewed by users, as well as shall have an option to create new.
      
@@ -40,6 +40,7 @@ Our requirements were created with the focus of usablitiy and reliability for th
     * Buttons shall be appropriately labeled so there is no user confusion.
     * The application shall be simple to use and have a design that does not need instructions/guidelines to use.
     * The application shall be easy to navigate though (forward backward buttons allow this) 
+    * 
  
  2. System Requirements
     * Software shall work on every iPhone that supports iOS 16 and up.
