@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B346348E293E567800873558 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B346348D293E567800873558 /* SettingsViewController.swift */; };
+		B346349629439A1F00873558 /* CommentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B346349529439A1F00873558 /* CommentsViewController.swift */; };
 		B58F33FA2909B0B800EA5D71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F33F92909B0B800EA5D71 /* AppDelegate.swift */; };
 		B58F33FC2909B0B800EA5D71 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F33FB2909B0B800EA5D71 /* SceneDelegate.swift */; };
 		B58F33FE2909B0B800EA5D71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58F33FD2909B0B800EA5D71 /* ViewController.swift */; };
@@ -68,6 +70,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B346348D293E567800873558 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		B346349529439A1F00873558 /* CommentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsViewController.swift; sourceTree = "<group>"; };
 		B58F33F62909B0B800EA5D71 /* CarDiagMainPage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarDiagMainPage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B58F33F92909B0B800EA5D71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B58F33FB2909B0B800EA5D71 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -167,6 +171,8 @@
 				B58F33FD2909B0B800EA5D71 /* ViewController.swift */,
 				B5A3324A2911C566005F77D5 /* LoginViewController.swift */,
 				B5A3324C2911C57A005F77D5 /* SignupViewController.swift */,
+				B346348D293E567800873558 /* SettingsViewController.swift */,
+				B346349529439A1F00873558 /* CommentsViewController.swift */,
 				B58F34022909B0B900EA5D71 /* Assets.xcassets */,
 				B58F34292909B22A00EA5D71 /* Main.storyboard */,
 				B58F34042909B0B900EA5D71 /* LaunchScreen.storyboard */,
@@ -360,9 +366,11 @@
 			files = (
 				B5A3324B2911C566005F77D5 /* LoginViewController.swift in Sources */,
 				B58F33FE2909B0B800EA5D71 /* ViewController.swift in Sources */,
+				B346349629439A1F00873558 /* CommentsViewController.swift in Sources */,
 				B5A3324D2911C57A005F77D5 /* SignupViewController.swift in Sources */,
 				B58F33FA2909B0B800EA5D71 /* AppDelegate.swift in Sources */,
 				B58F33FC2909B0B800EA5D71 /* SceneDelegate.swift in Sources */,
+				B346348E293E567800873558 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
