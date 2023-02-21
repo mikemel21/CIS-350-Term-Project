@@ -1,6 +1,6 @@
 # Red Spark
 
-* Our project will be a car diognostics app that allows the user to input an issue that is happening based on sight, smell, feel, sound,
+* Our project will be a car diagnostics app that allows the user to input an issue that is happening based on sight, smell, feel, sound,
     and if it won't start. Based on what the user clicks on, they will be brought to a list of solutions posted by other users. For example,
     the user will open the app, choose the option of sight, smell, feel, or sounds. If they choose "smells like" that would bring you to a list
     of possible smells, which then takes them to a solutions page.
